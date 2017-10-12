@@ -20,12 +20,20 @@ a {
   font-weight: bold;
 }
 h1 {
-  color: maroon;
   font-size: 150%;
   font-style: italic;
   display: block;
   width: 100%;
+  background-color:wheat;
   border-bottom: 1px solid DarkSlateGrey;
+}
+h3 {
+  font-size: 125%;
+  font-style: italic;
+  display: block;
+  width: 100%;
+  border-bottom: 1px solid DarkSlateGrey;
+  background-color: wheat;
 }
 h1.title {
   margin: 0 0 1em;

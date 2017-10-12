@@ -52,7 +52,7 @@ table#movies th, table#movies td {
   text-align: left;
 }
 #notice, #warning {
-  background: white;
+  background: wheat;
   margin: 1em 0;
   color: red;
   text-align: center;
